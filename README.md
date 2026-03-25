@@ -1,5 +1,4 @@
-## HCII 2026 accepted research paper
-https://github.com/felixlu4725/Evaluator-code/blob/main/2054_final.pdf
+### [HCII 2026 accepted research paper](https://github.com/felixlu4725/Evaluator-code/blob/main/2054_final.pdf)
 
 ## Prerequisites
 ### Required Software
